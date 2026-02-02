@@ -34,3 +34,15 @@ Translates forecasted cost driver movements into monthly unit costs, FX-adjusted
 - Annual inflation assumptions are converted into **monthly compounding rates** for forecasting.
 - Scenario “Snapshot” represents a single-period what-if view, while FY 2025 results reflect **time-weighted monthly forecasts**.
 - All figures are illustrative and intended to demonstrate financial modelling methodology rather than predict actual outcomes.
+
+  ## Data Sources
+
+**Data used**
+- USD/CNY FX monthly average rates: https://www.x-rates.com/average/?from=USD&to=CNY
+
+**Context & methodology references**
+- Apple Investor Relations (cost structure context): https://investor.apple.com/investor-relations/default.aspx
+- FX exposure and risk modelling concepts: https://corporatefinanceinstitute.com/resources/valuation/foreign-exchange-risk/
+- Inflation and cost forecasting concepts: https://www.investopedia.com/terms/i/inflation.asp
+- Global supply chain context: https://www.apple.com/supply-chain/
+
