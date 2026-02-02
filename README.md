@@ -1,3 +1,14 @@
+# Purchase Price Variance (PPV) & Cost Forecasting Model
+
+An Excel-based financial model that evaluates **purchase price variance (PPV)** and **unit cost risk** for a consumer electronics product using real historical data and forward-looking scenarios.
+
+The model combines:
+- Normalised cost driver indices (semiconductors, energy, freight)
+- Actual USD/CNY FX rates
+- Scenario-based inflation and FX assumptions
+
+It is designed to mirror how FP&A and supply chain finance teams assess **cost volatility, margin pressure, and FX exposure** in practice.
+
 ## Model Structure
 
 The model is organised into three interconnected layers to mirror how cost analysis is reviewed in practice.
