@@ -26,3 +26,11 @@ Uses a complete 24-month history (2023–2024) of normalised cost indices and ac
 Translates forecasted cost driver movements into monthly unit costs, FX-adjusted total costs, and PPV impact for January–December 2025.
 
 ![Forecast Mechanics](https://github.com/TejasKhadloya/PPV-and-Cost-Forecasting-Excel-Model/blob/main/Images/Forecast%20Mechanics.png)
+
+## Key Assumptions & Methodology
+
+- Forecasts are derived from the most recent **24 months of historical data (2023–2024)** and projected forward using scenario-based assumptions converted to monthly rates.
+- USD/CNY FX impact is applied using a **partial FX exposure assumption (65%)**, reflecting that not all costs are denominated in CNY.
+- Annual inflation assumptions are converted into **monthly compounding rates** for forecasting.
+- Scenario “Snapshot” represents a single-period what-if view, while FY 2025 results reflect **time-weighted monthly forecasts**.
+- All figures are illustrative and intended to demonstrate financial modelling methodology rather than predict actual outcomes.
